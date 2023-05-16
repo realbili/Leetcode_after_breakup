@@ -3,5 +3,5 @@
 ### 语言:python3
 
 ## 第一部分 : 数组 
-### [Leetcode 704 二分查找] (https://leetcode.cn/problems/binary-search/)
+### [Leetcode 704 二分查找](https://leetcode.cn/problems/binary-search/)
 ### []
